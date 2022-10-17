@@ -14,7 +14,7 @@ El programa Mercury no tenía un fin "en sí mismo". Su fin era preparar el prog
 
 En cualquier caso, **Gémini era la primera nave espacial tripulada estadounidense con capacidad para maniobrar en el espacio**. Tanto la Mercury como la Vostok (soviética) solo podía realizar movimientos de rotación alrededor de sus ejes, pero no de traslación. Sin movimiento de traslación era impoible poder alinear o acoplar dos vehículos en el espacio. Y para controlar este moviemiento fue necesario introducir un computador que facilitase estas tareas a los astronautas, con lo que **Gemini incorporó el primer ordenador de semiconductores de IBM que viajó al espacio**.
 
-Fue una especie de preparación para poder cumplir con el anuncio del John F. Kennedy. Por esta razón es que el lanzamiento de 12 misiones, que se llevaron a cabo entre abril de 1964 y noviembre de 1966, **resultan todos exitosos a pesar de un par de inconvenientes**: 
+Gemini fue un paso para poder cumplir con el anuncio del John F. Kennedy. Por esta razón es que el lanzamiento de 12 misiones, que se llevaron a cabo entre abril de 1964 y noviembre de 1966, **resultan todos exitosos a pesar de un par de inconvenientes**: 
 
 - la del Gemini 8, que termina en el primer aterrizaje de emergencia de una nave estadounidense tripulada; y 
 - la del Gemini 9A, en la que se tuvo que abortar un intento de acoplamiento con un sistema al que le apodaron el "cocodrilo enfadado".
