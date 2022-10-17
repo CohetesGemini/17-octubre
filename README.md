@@ -25,6 +25,8 @@ En todos los lanzamientos de Gemini se utilizó el mismo cohete: el Titan II, qu
 
 ![vehiculo](https://danielmarin.naukas.com/files/2019/07/2-s66-46952-a.jpg)
 
+Edwin Aldrin y James A. Lovell, la tripulación de la Gémini 12. El primero también tripuló el Apolo 11 y el segundo tuvo menos suerte… tripulando el Apolo 13.
+
 #### Fuentes: 
 
 https://web.archive.org/web/20150405212055/http://www-pao.ksc.nasa.gov/kscpao/history/gemini/gemini.htm
