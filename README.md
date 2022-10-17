@@ -19,7 +19,7 @@ Gemini fue un paso para poder cumplir con el anuncio del John F. Kennedy. Por es
 - la del Gemini 8, que termina en el primer aterrizaje de emergencia de una nave estadounidense tripulada; y 
 - la del Gemini 9A, en la que se tuvo que abortar un intento de acoplamiento con un sistema al que le apodaron el "cocodrilo enfadado".
 
-En todos los lanzamientos de Gemini se utilizó el mismo cohete: **el Titan II**, que había nacido como un misil balístico intercontinental de combustible líquido de dos etapas: La primera etapa consiste de un motor LR87, mientras la segunda usa un motor LR91. Tiene **la potencia para poner en órbita cargas pequeñas y medianas en órbita circular polar baja. Y la nave era pequeña**:
+En todos los lanzamientos de Gemini se utilizó el mismo cohete: **el Titan II**, que había nacido como un misil balístico intercontinental de combustible líquido de dos etapas: La primera etapa consiste de un motor LR87, mientras la segunda usa un motor LR91. Cohete que tiene **la potencia para poner cargas pequeñas y medianas en la órbita circular polar baja. Y la nave era una carga pequeña**:
 
 ![spacecraft](https://www.hq.nasa.gov/office/pao/History/diagrams/gemini1.gif)
 
