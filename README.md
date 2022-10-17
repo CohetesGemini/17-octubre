@@ -1,6 +1,6 @@
 # Programa Gemini (EEUU, 1961–1966)
 
-Gemini es el nombre del tercer programa espacial norteamericano en el marco de la carrera espacial en el contexto de la Guerra Fría.
+Gemini es el nombre del tercer programa espacial norteamericano en el marco de la carrera espacial durante la Guerra Fría.
 
 1. **Vanguard**. Primer programa espacial de EEUU, que intentaba empatar con el programa Sputnik (de vuelos no tripulados por humanos). Pero quedaron lejos de lograr tal empate con 11 intentos fallidos y solo 3 éxitos.
 3. **Mercury**. Segundo programa espacial de EEUU, y el primero en vuelos tripulados intentando el empate con el programa Vostok (de vuelos tripulados). Este programa sí alcanzó tal empate, con algo de trampa: Decían que Alan Shepard fue el primer estadounidense puesto en órbita cuando lo que hizo fue, realmente, un vuelo suborbital. El verdero "empate" lo lograron con John Glenn (1962), cuando los soviéticos ya habían lanzado 48 misiones orbitales.
